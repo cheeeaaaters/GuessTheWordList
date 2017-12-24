@@ -1,6 +1,7 @@
 american football
 angry
 animal
+apple
 arcade
 arcade machine
 archer
@@ -13,6 +14,8 @@ autumn
 balloon
 banana
 banner
+barn
+beach
 beanstalk
 beard
 bed
@@ -25,6 +28,7 @@ boardgames
 boat
 bobsledding
 bone
+bookshelf
 bow and arrow
 bowling
 bowling ball
@@ -46,6 +50,7 @@ carrot
 cat
 cellphone
 chair
+chess piece
 chest
 chestplate
 chicken
@@ -56,15 +61,23 @@ christmas tree
 class
 classroom
 coal
+coffee
 cookie
+cowboy
 crab
 crocodile
+crystal
 crystal ball
 cup
 cupcake
 dancefloor
 deer
+demon
+desert
+diamond
 dice
+dinosaur
+dodgeball
 doll
 donut
 dragon
@@ -81,9 +94,12 @@ explosion
 eye
 fairytale
 fidget spinner
+fire
 fireball
 firefighter
 fireplace
+fishing
+flags
 flower
 flowerpot
 frozen
@@ -103,6 +119,7 @@ gold
 gold medal
 golf
 golf course
+grapes
 great britain
 hair
 halloween
@@ -120,6 +137,7 @@ hot dog
 hula hoop
 hypixel
 ice cream
+iceberg
 igloo
 jacket
 jewel
@@ -130,9 +148,11 @@ ladder
 lamp
 landscape
 laundry basket
+leaf
 legend of zelda
 lighthouse
 lips
+living room
 mad scientist
 magazine
 marshmallow
@@ -150,17 +170,21 @@ mouth
 movie theater
 muffin
 mustache
+naughty list
 ninja
 north pole
 nose
 octopus
+orange
 ornament
 package
 pacman
 paintbrush
+painter
 painting
 palm tree
 parachute
+parking
 parrot
 party
 pen
@@ -169,11 +193,13 @@ picture
 piggy bank
 pillowcase
 pineapple
+pirate ship
 pirates
 pogo stick
 pokemon
 police station
 pool
+portal
 pot of gold
 princess
 prison
@@ -185,15 +211,19 @@ redstone
 reindeer
 restaurant
 robots
+rollercoaster
 rubber duck
 sandwitches
 santa
 santa claus
+school bus
 scooby doo
 shed
+sherk
 shield
 shopping
 shopping trolley
+shoulder
 shovel
 skateboard
 skateboarding
@@ -211,6 +241,7 @@ snowy forest
 socks
 spaceship
 spiderman
+spongebob
 spooky house
 sports
 star war
@@ -226,14 +257,18 @@ suprise
 sushi
 swimming pool
 swing
+table
 tank
 tears
 teddy bear
 telephone
 television
 tennis court
+tetris
 the end
 the grinch
+the simpsons
+tightrope
 toothbrush
 towel
 toy
@@ -245,6 +280,7 @@ treasure chest
 tree house
 unicycle
 vampire
+vegetarian
 wardrobe
 watering can
 wedding cake
