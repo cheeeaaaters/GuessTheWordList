@@ -1,5 +1,7 @@
 american football
 angry
+animal
+arcade
 arcade machine
 archer
 art
@@ -19,19 +21,25 @@ bike
 birthday party
 blizzard
 blocks
-boardgame
+boardgames
+boat
 bobsledding
 bone
 bow and arrow
 bowling
+bowling ball
+boxing
 branch
 breakfast
 bunny
 butterflies
+butterfly
+cake
 calculator
 candy cane
 cape
 car
+car wash
 caribbean
 caroling
 carrot
@@ -42,6 +50,7 @@ chest
 chestplate
 chicken
 chocolate
+christmas
 christmas gift
 christmas tree
 class
@@ -50,6 +59,7 @@ coal
 cookie
 crab
 crocodile
+crystal ball
 cup
 cupcake
 dancefloor
@@ -61,12 +71,17 @@ dragon
 dragon egg
 drink
 earth
+egypt
 elevator
 elf
 ender dragon
+enderman
+examination
 explosion
+eye
 fairytale
 fidget spinner
+fireball
 firefighter
 fireplace
 flower
@@ -74,6 +89,7 @@ flowerpot
 frozen
 fruit salad
 futuristic house
+galaxy
 game
 gardening
 gates
@@ -82,6 +98,7 @@ gingerbread house
 gingerbread man
 glasses
 goalkeeper
+goggles
 gold
 gold medal
 golf
@@ -98,14 +115,19 @@ holiday
 homework
 honey
 hot air balloon
+hot chocolate
 hot dog
+hula hoop
 hypixel
+ice cream
 igloo
 jacket
 jewel
 jump rope
 king kong
 kitchen
+ladder
+lamp
 landscape
 laundry basket
 legend of zelda
@@ -114,6 +136,7 @@ lips
 mad scientist
 magazine
 marshmallow
+maze
 meteorite
 microphone
 microwave
@@ -121,35 +144,46 @@ milk and cookies
 mine
 minecraft
 mistletoe
+monster
 moon
 mouth
 movie theater
 muffin
 mustache
 ninja
+north pole
 nose
+octopus
 ornament
 package
+pacman
 paintbrush
 painting
+palm tree
 parachute
 parrot
+party
 pen
+photograph
 picture
 piggy bank
+pillowcase
 pineapple
 pirates
-plam tree
 pogo stick
 pokemon
+police station
+pool
 pot of gold
 princess
 prison
 pumpkin
+purse
 rain
 rat
 redstone
 reindeer
+restaurant
 robots
 rubber duck
 sandwitches
@@ -159,12 +193,15 @@ scooby doo
 shed
 shield
 shopping
+shopping trolley
 shovel
 skateboard
+skateboarding
 skating
 skeleton
 sled
 sleigh
+snow
 snow globe
 snowball fight
 snowboarding
@@ -172,11 +209,16 @@ snowflake
 snowman
 snowy forest
 socks
+spaceship
 spiderman
+spooky house
 sports
 star war
 starfish
+stick
 street
+submarine
+sun
 sunglasses
 super mario
 supermarket
@@ -189,6 +231,7 @@ tears
 teddy bear
 telephone
 television
+tennis court
 the end
 the grinch
 toothbrush
@@ -198,9 +241,13 @@ toy factory
 traffic jam
 traffic lights
 trash can
+treasure chest
 tree house
 unicycle
+vampire
 wardrobe
 watering can
+wedding cake
 werewolf
 window
+writing
