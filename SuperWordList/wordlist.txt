@@ -11,11 +11,14 @@ astronaut
 atmosphere
 australia
 autumn
+baby
 balloon
 banana
 banner
 barn
+basketball
 beach
+beach party
 beanstalk
 beard
 bed
@@ -38,18 +41,23 @@ breakfast
 bunny
 butterflies
 butterfly
+cactus
 cake
 calculator
+campfire
 candy cane
 cape
 car
 car wash
 caribbean
 caroling
+carpenter
 carrot
 cat
 cellphone
+chain
 chair
+cherry
 chess piece
 chest
 chestplate
@@ -77,8 +85,10 @@ desert
 diamond
 dice
 dinosaur
+disappear
 dodgeball
 doll
+donkey
 donut
 dragon
 dragon egg
@@ -98,10 +108,12 @@ fire
 fireball
 firefighter
 fireplace
+fish
 fishing
 flags
 flower
 flowerpot
+french fries
 frozen
 fruit salad
 futuristic house
@@ -126,6 +138,7 @@ halloween
 hamster
 headphones
 hedgehog
+helicopter
 hockey rink
 hole
 holiday
@@ -142,19 +155,23 @@ igloo
 jacket
 jewel
 jump rope
+keyboard
 king kong
 kitchen
 ladder
+ladybug
 lamp
 landscape
 laundry basket
 leaf
 legend of zelda
+library
 lighthouse
 lips
 living room
 mad scientist
 magazine
+magic trick
 marshmallow
 maze
 meteorite
@@ -169,6 +186,8 @@ moon
 mouth
 movie theater
 muffin
+music
+musician
 mustache
 naughty list
 ninja
@@ -183,8 +202,10 @@ paintbrush
 painter
 painting
 palm tree
+paper
 parachute
 parking
+parkour
 parrot
 party
 pen
@@ -193,8 +214,11 @@ picture
 piggy bank
 pillowcase
 pineapple
+pineapple pizza
+ping pong
 pirate ship
 pirates
+planet
 pogo stick
 pokemon
 police station
@@ -205,6 +229,7 @@ princess
 prison
 pumpkin
 purse
+pyramid
 rain
 rat
 redstone
@@ -219,18 +244,21 @@ santa claus
 school bus
 scooby doo
 shed
-sherk
 shield
 shopping
 shopping trolley
 shoulder
 shovel
+shrek
 skateboard
 skateboarding
 skating
 skeleton
+skywars
 sled
 sleigh
+slime
+smell
 snow
 snow globe
 snowball fight
@@ -239,7 +267,9 @@ snowflake
 snowman
 snowy forest
 socks
+space
 spaceship
+spaghetti
 spiderman
 spongebob
 spooky house
@@ -264,6 +294,7 @@ teddy bear
 telephone
 television
 tennis court
+test
 tetris
 the end
 the grinch
@@ -275,6 +306,7 @@ toy
 toy factory
 traffic jam
 traffic lights
+transportation
 trash can
 treasure chest
 tree house
@@ -287,3 +319,4 @@ wedding cake
 werewolf
 window
 writing
+xylophone
