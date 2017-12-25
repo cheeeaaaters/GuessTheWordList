@@ -32,28 +32,35 @@ boat
 bobsledding
 bone
 bookshelf
+bottle
 bow and arrow
 bowling
 bowling ball
 boxing
 branch
 breakfast
+broomstick
 bunny
 butterflies
 butterfly
 cactus
 cake
 calculator
+calendar
 campfire
+candy
 candy cane
 cape
 car
 car wash
+cardboard box
 caribbean
 caroling
 carpenter
 carrot
 cat
+catapult
+caterpillar
 cellphone
 chain
 chair
@@ -66,13 +73,16 @@ chocolate
 christmas
 christmas gift
 christmas tree
+city building
 class
 classroom
 coal
 coffee
+cook
 cookie
 cowboy
 crab
+crane
 crocodile
 crystal
 crystal ball
@@ -86,8 +96,10 @@ diamond
 dice
 dinosaur
 disappear
+disco
 dodgeball
 doll
+dolphin
 donkey
 donut
 dragon
@@ -95,10 +107,12 @@ dragon egg
 drink
 earth
 egypt
+electricity
 elevator
 elf
 ender dragon
 enderman
+engine
 examination
 explosion
 eye
@@ -111,17 +125,21 @@ fireplace
 fish
 fishing
 flags
+flashlight
 flower
 flowerpot
+frame
 french fries
 frozen
 fruit salad
 futuristic house
 galaxy
 game
+gaming console
 gardening
 gates
 genie lamp
+ghost
 gingerbread house
 gingerbread man
 glasses
@@ -137,6 +155,7 @@ hair
 halloween
 hamster
 headphones
+heart
 hedgehog
 helicopter
 hockey rink
@@ -148,6 +167,7 @@ hot air balloon
 hot chocolate
 hot dog
 hula hoop
+hurricane
 hypixel
 ice cream
 iceberg
@@ -169,11 +189,14 @@ library
 lighthouse
 lips
 living room
+lobster
 mad scientist
 magazine
 magic trick
 marshmallow
 maze
+measurement
+metal detector
 meteorite
 microphone
 microwave
@@ -182,6 +205,7 @@ mine
 minecraft
 mistletoe
 monster
+monsters
 moon
 mouth
 movie theater
@@ -190,14 +214,19 @@ music
 musician
 mustache
 naughty list
+newspaper
 ninja
+ninja turtles
+nintendo
 north pole
 nose
 octopus
 orange
 ornament
+owl
 package
 pacman
+padlock
 paintbrush
 painter
 painting
@@ -224,9 +253,11 @@ pokemon
 police station
 pool
 portal
+pot
 pot of gold
 princess
 prison
+protest
 pumpkin
 purse
 pyramid
@@ -243,6 +274,7 @@ santa
 santa claus
 school bus
 scooby doo
+seat
 shed
 shield
 shopping
@@ -258,6 +290,7 @@ skywars
 sled
 sleigh
 slime
+smartphone
 smell
 snow
 snow globe
@@ -277,10 +310,13 @@ sports
 star war
 starfish
 stick
+storage
 street
 submarine
 sun
 sunglasses
+sunrise
+super hero
 super mario
 supermarket
 suprise
@@ -289,27 +325,36 @@ swimming pool
 swing
 table
 tank
+teacup
 tears
 teddy bear
 telephone
 television
 tennis court
 test
+tests
 tetris
 the end
 the grinch
+the hulk
 the simpsons
 tightrope
 toothbrush
+torch
+tornado
 towel
 toy
 toy factory
 traffic jam
 traffic lights
+train station
+train tracks
+trampoline
 transportation
 trash can
 treasure chest
 tree house
+unicorn
 unicycle
 vampire
 vegetarian
