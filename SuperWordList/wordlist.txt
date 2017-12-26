@@ -12,6 +12,7 @@ atmosphere
 australia
 autumn
 baby
+backpack
 balloon
 banana
 banner
@@ -23,6 +24,7 @@ beanstalk
 beard
 bed
 bedroom
+bigfoot
 bike
 birthday party
 blizzard
@@ -47,6 +49,7 @@ cactus
 cake
 calculator
 calendar
+camel
 campfire
 candy
 candy cane
@@ -65,10 +68,12 @@ cellphone
 chain
 chair
 cherry
+chess
 chess piece
 chest
 chestplate
 chicken
+chip
 chocolate
 christmas
 christmas gift
@@ -76,8 +81,10 @@ christmas tree
 city building
 class
 classroom
+cloud
 coal
 coffee
+construction yard
 cook
 cookie
 cowboy
@@ -113,6 +120,7 @@ elf
 ender dragon
 enderman
 engine
+environment
 examination
 explosion
 eye
@@ -142,8 +150,10 @@ genie lamp
 ghost
 gingerbread house
 gingerbread man
+giraffe
 glasses
 goalkeeper
+godzilla
 goggles
 gold
 gold medal
@@ -163,6 +173,7 @@ hole
 holiday
 homework
 honey
+horse
 hot air balloon
 hot chocolate
 hot dog
@@ -173,6 +184,7 @@ ice cream
 iceberg
 igloo
 jacket
+jellyfish
 jewel
 jump rope
 keyboard
@@ -183,13 +195,16 @@ ladybug
 lamp
 landscape
 laundry basket
+lawn mower
 leaf
 legend of zelda
 library
 lighthouse
+lion
 lips
 living room
 lobster
+machine
 mad scientist
 magazine
 magic trick
@@ -204,9 +219,11 @@ milk and cookies
 mine
 minecraft
 mistletoe
+money
 monster
 monsters
 moon
+motorbike
 mouth
 movie theater
 muffin
@@ -241,18 +258,21 @@ pen
 photograph
 picture
 piggy bank
+pikachu
 pillowcase
 pineapple
 pineapple pizza
 ping pong
 pirate ship
 pirates
+plane
 planet
 pogo stick
 pokemon
 police station
 pool
 portal
+postcard
 pot
 pot of gold
 princess
@@ -267,8 +287,10 @@ redstone
 reindeer
 restaurant
 robots
+rockband
 rollercoaster
 rubber duck
+sandbox
 sandwitches
 santa
 santa claus
@@ -277,6 +299,7 @@ scooby doo
 seat
 shed
 shield
+shoe
 shopping
 shopping trolley
 shoulder
@@ -288,6 +311,7 @@ skating
 skeleton
 skywars
 sled
+sleeping
 sleigh
 slime
 smartphone
@@ -299,6 +323,7 @@ snowboarding
 snowflake
 snowman
 snowy forest
+soccer
 socks
 space
 spaceship
@@ -311,6 +336,7 @@ star war
 starfish
 stick
 storage
+storm
 street
 submarine
 sun
@@ -319,10 +345,12 @@ sunrise
 super hero
 super mario
 supermarket
-suprise
+surfing
+surprise
 sushi
 swimming pool
 swing
+sword
 table
 tank
 teacup
@@ -338,6 +366,7 @@ the end
 the grinch
 the hulk
 the simpsons
+theme park
 tightrope
 toothbrush
 torch
@@ -345,6 +374,7 @@ tornado
 towel
 toy
 toy factory
+toy story
 traffic jam
 traffic lights
 train station
@@ -354,14 +384,21 @@ transportation
 trash can
 treasure chest
 tree house
+truck
 unicorn
 unicycle
 vampire
 vegetarian
+villager
 wardrobe
 watering can
+wave
+wedding
 wedding cake
 werewolf
+wheel
 window
+wool
 writing
 xylophone
+zombie
